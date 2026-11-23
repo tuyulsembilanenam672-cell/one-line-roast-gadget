@@ -1,0 +1,10 @@
+{
+  "name": "one-line-roast-gadget",
+  "version": "1.0.0",
+  "description": "One original line roasting the smart speaker I use every day, written to /output/entry.txt for make.fun.",
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
